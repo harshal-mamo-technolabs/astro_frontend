@@ -1,0 +1,158 @@
+[
+    {
+        "solar_return_planet": "Sun",
+        "aspecting_planet": "Moon",
+        "type": "Conjunction",
+        "orb": 6.8
+    },
+    {
+        "solar_return_planet": "Sun",
+        "aspecting_planet": "Mars",
+        "type": "Trine",
+        "orb": 5.4
+    },
+    {
+        "solar_return_planet": "Sun",
+        "aspecting_planet": "Jupiter",
+        "type": "Opposition",
+        "orb": 6.51
+    },
+    {
+        "solar_return_planet": "Moon",
+        "aspecting_planet": "Mars",
+        "type": "Square",
+        "orb": 5.63
+    },
+    {
+        "solar_return_planet": "Moon",
+        "aspecting_planet": "Mercury",
+        "type": "Opposition",
+        "orb": 8.39
+    },
+    {
+        "solar_return_planet": "Moon",
+        "aspecting_planet": "Venus",
+        "type": "Trine",
+        "orb": 0.64
+    },
+    {
+        "solar_return_planet": "Mars",
+        "aspecting_planet": "Mercury",
+        "type": "Conjunction",
+        "orb": 0.72
+    },
+    {
+        "solar_return_planet": "Mars",
+        "aspecting_planet": "Venus",
+        "type": "Sextile",
+        "orb": 8.46
+    },
+    {
+        "solar_return_planet": "Mars",
+        "aspecting_planet": "Saturn",
+        "type": "Trine",
+        "orb": 5.58
+    },
+    {
+        "solar_return_planet": "Mars",
+        "aspecting_planet": "Rahu",
+        "type": "Square",
+        "orb": 6.81
+    },
+    {
+        "solar_return_planet": "Mars",
+        "aspecting_planet": "Ketu",
+        "type": "Square",
+        "orb": 6.81
+    },
+    {
+        "solar_return_planet": "Mercury",
+        "aspecting_planet": "Mars",
+        "type": "Square",
+        "orb": 0.44
+    },
+    {
+        "solar_return_planet": "Mercury",
+        "aspecting_planet": "Venus",
+        "type": "Sextile",
+        "orb": 4.55
+    },
+    {
+        "solar_return_planet": "Mercury",
+        "aspecting_planet": "Saturn",
+        "type": "Trine",
+        "orb": 9.49
+    },
+    {
+        "solar_return_planet": "Jupiter",
+        "aspecting_planet": "Mars",
+        "type": "Square",
+        "orb": 3.92
+    },
+    {
+        "solar_return_planet": "Jupiter",
+        "aspecting_planet": "Mercury",
+        "type": "Conjunction",
+        "orb": 6.67
+    },
+    {
+        "solar_return_planet": "Jupiter",
+        "aspecting_planet": "Venus",
+        "type": "Sextile",
+        "orb": 1.07
+    },
+    {
+        "solar_return_planet": "Venus",
+        "aspecting_planet": "Mars",
+        "type": "Square",
+        "orb": 0.3
+    },
+    {
+        "solar_return_planet": "Venus",
+        "aspecting_planet": "Mercury",
+        "type": "Conjunction",
+        "orb": 3.06
+    },
+    {
+        "solar_return_planet": "Venus",
+        "aspecting_planet": "Saturn",
+        "type": "Trine",
+        "orb": 9.36
+    },
+    {
+        "solar_return_planet": "Saturn",
+        "aspecting_planet": "Rahu",
+        "type": "Sextile",
+        "orb": 1.33
+    },
+    {
+        "solar_return_planet": "Saturn",
+        "aspecting_planet": "Ketu",
+        "type": "Trine",
+        "orb": 1.33
+    },
+    {
+        "solar_return_planet": "Rahu",
+        "aspecting_planet": "Mercury",
+        "type": "Trine",
+        "orb": 7.08
+    },
+    {
+        "solar_return_planet": "Rahu",
+        "aspecting_planet": "Venus",
+        "type": "Opposition",
+        "orb": 0.67
+    },
+    {
+        "solar_return_planet": "Ketu",
+        "aspecting_planet": "Mercury",
+        "type": "Sextile",
+        "orb": 7.08
+    },
+    {
+        "solar_return_planet": "Ketu",
+        "aspecting_planet": "Venus",
+        "type": "Conjunction",
+        "orb": 0.67
+    }
+]

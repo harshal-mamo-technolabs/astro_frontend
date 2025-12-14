@@ -1,0 +1,90 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+        "logo":"♈",
+        "horoscope": {
+          "summary": "It's not uncommon for Aries to suddenly fall in love with someone they knew before, whom they accidentally meet again after many years. It could be a childhood crush, a school friend, or a college mate. Of course, love can be found elsewhere. However, when on unfamiliar territory, approach Aries with caution and sensitivity to win their heart. Aries likes to take care of others' concerns and needs. Anyone who awakens their helpful side has a good chance of getting closer."
+        }
+      },
+      {
+        "sign": "Taurus",
+        "logo":"♉",
+        "horoscope": {
+          "summary": "Taurus is not necessarily a bold initiator and likes to take time in choosing a partner. But once a choice is made, they are committed and want the relationship to last a lifetime. Groundedness and surrender are two different things, but they belong to Taurus and are also expected from their ideal partner. Taurus is reserved and waits before allowing flirting. While they have admirers, they rarely take the initiative. They enjoy their free time with sensuality and pleasure, preferring practicality. You're more likely to find them at a concert, cinema, restaurant, winery, in the woods, or on a countryside picnic."
+        }
+      },
+      {
+        "sign": "Gemini",
+        "logo":"♊",
+        "horoscope": {
+          "summary": "With their open nature, lively Geminis have no trouble approaching others. If they want quick conquest, they usually get what they want. Geminis enjoy talking and easily meet new people anywhere, anytime. They are welcomed guests and should not miss any party. They are skilled at flirting, but their connections are often superficial. Consequently, finding a genuine Mr. or Ms. Right might be challenging. Single Gemini explores wherever something is happening. They can be found at various parties and events with their diverse interests."
+        }
+      },
+      {
+        "sign": "Cancer",
+        "logo":"♋",
+        "horoscope": {
+          "summary": "Sensitive Cancer is not necessarily a born single. They need security in a solid partnership and are not ready for a quick adventure on the first date. They are unconditional romantics, and their hearts are best won over with a cozy candlelit dinner for two. Spontaneous, purely erotic adventures are not their thing. They like to cuddle and aim to build enough trust before getting into a relationship. Cancer is not a party animal and patiently waits for someone to approach. Instead of wild flirting, they tend to be reserved. They rarely take the first step, but once someone trusts them and reveals their feelings, they've won the first pot of flowers."
+        }
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+        "horoscope": {
+          "summary": "Confident Leo has no difficulty attracting attention and can quickly win the man or woman of their desire. They are on the winning side – in love too. Leo is always ready to flirt, admired and adored by many, using their charm and charisma to win any heart. With natural self-confidence, they know how to be the center of attention and attract admiration. Leo enjoys being admired and values compliments. Anyone who knows this has an advantage in winning a lion's heart. Single Leo impresses with their appearance. With a penchant for luxury, you can find them in exclusive restaurants, five-star hotels, golf courses, or theaters. Wherever Leo goes, there's a touch of extravagance and glamour. "
+        }
+      },
+      {
+        "sign": "Virgo",
+        "logo":"♍",
+        "horoscope": {
+          "summary": "A single born under the sign of Virgo is not a born risk-taker but excels at hiding their true feelings. They prefer to stay in the background and approach new people with reserve. Values such as decency, reliability, and honesty still matter to Virgo. It takes time before the flames of love truly ignite. Love at first sight is unlikely for Virgo, although exceptions confirm the rule. Due to their controlled approach to life, Virgos may seem somewhat cold and reserved at first. However, those who get close to Virgo will soon discover a caring and absolutely reliable companion. Virgo does not fish in unfamiliar waters, and it's more likely to find them in a budget-friendly market than in a gourmet store. They prefer to build relationships where they have enough time to get to know their partner better."
+        }
+      },
+      {
+        "sign": "Libra",
+        "logo":"♎",
+        "horoscope": {
+          "summary": "With inherent charm and cheerful sociability, Libra has no trouble drawing attention and approaching others in a friendly and open manner. Libra is ready to flirt anytime, anywhere, and with anyone. They love socializing and the more, the better. Libra doesn't mind engaging in many casual acquaintances but often remains quite superficial. You may have seen each other, known each other, and met for coffee or conversation. Therefore, it's inevitable that Libra can be spoiled for choices before making a commitment. Decision-making can be challenging for them. However, once committed, they will do everything to make the relationship harmonious. Libra doesn't need to search – they can choose. With personal charisma and tasteful clothing, they never go unnoticed. You can find them everywhere, making friends at the outdoor pool, in a camp, at grand balls, parties, or in the nightclub."
+        }
+      },
+      {
+        "sign": "Scorpio",
+        "logo":"♏",
+        "horoscope":{
+          "summary": "Mysterious and deep, Scorpio doesn't fall for compliments or flattery unless it's serious. They are known to be stubborn and suspicious. Before getting close, Scorpio will put their opponent to the test but keep themselves covered.  Scorpio skillfully hides their sensitivity, vulnerability, and burning passion behind a falsely reserved mask. When single Scorpio flirts, it's all or nothing. With a deep gaze and almost magnetic charisma, they cast a spell on their desired target.Regarding communication, Scorpio is quite direct, and when choosing between honesty and politeness, they will always choose honesty. This can make Scorpio both attractive and off-putting to their partner, making them fascinating. A single Scorpio is not easily deciphered. If you want to meet one, you might find them in a dimly lit bar, a trendy pub, or at an esoteric fair or hypnosis show. A single Scorpio is open to a mysterious blind date or an exciting encounter with an online acquaintance. They love the unusual, don't fear the unknown, and welcome a touch of danger."
+  
+        }
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+          "summary": "Sociable Sagittarius has doors wide open and is well-received everywhere with their friendly demeanor. While adaptable, they manage to prioritize themselves. As a good-humored and broad-interest conversationalist, if single Sagittarius is in a flirty mood, they usually seek an uncomplicated and light-hearted connection based on the motto: I can still commit later. Sagittarius often exceeds their goal with their sociability and flirtatiousness, making promises in the exuberance of their feelings that they may not always fulfill.A Sagittarius shooter is quickly inspiring. You don't have to look for a fun-loving single Sagittarius in the back corner of the bar – they don't hide and can be found wherever they go. They can be enthusiastic about almost anything, whether it's enjoying nightlife, sitting in the stands at a popular sports event, or riding a bike. The main thing is to have fun and avoid boredom."
+        }
+      },
+      {
+        "sign": "Capricorn",
+        "logo":"♑",
+        "horoscope": {
+          "summary": "Serious and somewhat reserved, Capricorn doesn't think much about casual flirting. They are not into quick and easy conquests; when they look, they look with serious intentions.Capricorns are not bold; they are disciplined and down-to-earth. Before scheduling a date, they take time to think if it's worth even meeting the person. Capricorn is unlikely to succumb to their feelings quickly and won't lose their head so soon.Anyone wanting to get close to a single Capricorn and capture their interest has a good starting point with shared hobbies. If you're willing to talk to them about your job, these are the best prerequisites for a first date. But it will take a lot of time to finally win their heart. A single Capricorn doesn't rush into anything. They are hardworking and often find their life partner at work. Capricorns always keep their emotions in check, rarely falling in love at first sight, for example, at an event or while shopping at the supermarket. If you want to meet them outside their workplace, you might run into them while hiking or engaging in one of their hobbies."
+        }
+      },
+      {
+        "sign": "Aquarius",
+        "logo":"♒",
+        "horoscope": {
+          "summary": "Free-spirited and unconventional, single Aquarius often dances at several weddings simultaneously. Their casual behavior is well-received everywhere, making them easily make acquaintances. Aquarius usually has a large circle of friends, is known as a seducer, and doesn't miss any party.Because of this, they constantly meet new people, and solitude is an unfamiliar concept to them. Aquarius is beloved and appreciated for their open nature. They are willing to flirt anytime, anywhere, but are reluctant to commit. If you want to win the heart of a single Aquarius, you shouldn't immediately seek ownership. In that case, the Aquarius single would run away and quickly be above the mountains.Single Aquarians are attracted to the new and unknown. They don't hide and can be found everywhere, from cinema and concerts to parties. They have a broad range of interests and always have something up their sleeve. Anyone wanting to catch a single Aquarius shouldn't be boring."
+        }
+      },
+      {
+        "sign": "Pisces",
+        "logo":"♓",
+        "horoscope": {
+          "summary": "Shy and sensitive, single Pisces want to be discovered and carefully won over. Romance and a world of dreams and fantasies belong to them, and you should be prepared for that before entering a relationship with a Pisces.They are one of the sensitive signs of the zodiac and appreciate it when they are met with the necessary empathy. Pisces is not looking for quick adventures or casual flirting. However, once they gain the necessary trust, they will enjoy cuddling, always hoping their wishes will be read in their eyes. A single Pisces loves nature. If you want to meet one, you have very good chances in natural surroundings. They love the sea and feel most comfortable when close to water. But a single Pisces is always available for a cozy get-together with candles at home. They are unlikely to resist an invitation to a romantic hotel or a good candlelit meal."
+        }
+      }
+    ]
+  }
+  

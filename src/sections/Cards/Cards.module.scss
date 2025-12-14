@@ -1,0 +1,17 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1140px;
+
+  @media screen and (max-width: $tablet-M) {
+    padding: 5px;
+  }
+}

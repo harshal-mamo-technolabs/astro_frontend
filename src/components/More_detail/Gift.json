@@ -1,0 +1,278 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+        "logo":"♈",
+        "horoscope": {
+           "child":{
+            "title":"Aries children are delighted with anything diverse and related to physical activity. Don't neglect their instinct for play.",
+             "tip":["Exciting CD with audio books","Ball","Badminton set","Drums","Guitar","Magic box"]
+           },
+           "women": {
+            "title":"No boring gifts for Mrs. Aries. Anything unusual or related to her hobbies will make her happy.",
+            "tip":["Unusual perfume","Voucher for a climbing tour or hot air balloon ride","Bouquet: tiger lilies, red roses"]
+          },
+          "man": {
+            "title":"Mr. Aries loves exciting things and is happy with gifts that bring fun and diversity.",
+            "tip":["Balloon ride voucher or a day at the race track","Mountain bike","Something for his hobby or favorite sport"]
+          },
+          "grandparents": {
+            "title":"Aries grandparents want to have fun in life. They want to stay active and are happy with anything that keeps them in shape.",
+            "tip":["Crossword books","Mountain bike","Voucher for a senior dance event","Walking stick","Exciting book"]
+          }
+           }
+      },
+      {
+        "sign": "Taurus",
+        "logo":"♉",
+        "horoscope": {
+            "child":{
+             "title":"Anything related to learning or suiting their practical nature will bring joy to little Taurus.",
+              "tip":["Building set","Puzzle","Craft Kit","Chocolate","Book"]
+            },
+            "women": {
+             "title":"Practical kitchen or garden gifts make every Taurus woman's heart beat faster.",
+             "tip":["Kitchen utensils","Baking book ","  Cookbook ","  Potted or balcony plants"," Garden tools"," Bouquet: daisies, lilies"]
+           },
+           "man": {
+             "title":"Gifts for Taurus man should be useful and tried-and-true.",
+             "tip":["Good bottle of wine","Homemade cake","Dinner invitation","Warm sweater","Socks","Something for his car"]
+           },
+           "grandparents": {
+             "title":"Taurus grandparents are happy with anything they can use or consume.",
+             "tip":["Gift basket","Decaffeinated coffee","Potted plants for the windowsill"]
+           }
+            }   
+      },
+      {
+        "sign": "Gemini",
+        "logo":"♊",
+        "horoscope": {
+            "child":{
+             "title":"Gemini children will be happy with creative gifts and anything related to mobility.",
+              "tip":["Age-appropriate games","Book","Building set","Experiment Kit","Magic Box","Jump Rope","Ball","Bicycle"]
+            },
+            "women": {
+             "title":"Gemini women don't like it boring. Gifts should be trendy, not dull or unimaginative.",
+             "tip":["Modern clothing item or accessory","Trendy handbag","Piece of jewelry","Winter sports equipment"," Travel voucher","Movie night or hot air balloon ride","Bouquet: Mixed flowers"]
+           },
+           "man": {
+             "title":"Gemini man is versatile and looks forward to anything that suits his taste and has a fun factor.",
+             "tip":["Something for his hobby","Music CD","Exciting movie DVD","Bundesliga match ticket","Multipurpose watch","Telescope"]
+           },
+           "grandparents": {
+             "title":"Gemini grandparents still have an alert mind in old age. This should be considered when giving gifts.",
+             "tip":["Mobile phone","Book","CD","DVD","pedal exerciser","Game Collection","Bouquet: Wildflowers"]
+           }
+            }     
+      },
+      {
+        "sign": "Cancer",
+        "logo":"♋",
+        "horoscope": {
+            "child":{
+             "title":"Cancer kids are patient and enjoy toys of all kinds.",
+              "tip":["Games","Books","Radio play CD","Craft tools","Push animal","Teddy bear/doll","Tool kit","Doll cloths","Doll kitchen","Doll house","Doll stroller"]
+            },
+            "women": {
+             "title":"You can give good gifts to a Cancer woman because she is equally happy with practical gifts as well as invitations or vouchers with a romantic factor.",
+             "tip":["Blender","Baking tray","Frying pan","Piece of jewelry","Clothing","Scarf","Handbag","Voucher for a romantic hotel"," Dinner invitation with candles, musical, or theater show","Potted plant: violet","Bouquet: Roses, lilies"]
+           },
+           "man": {
+             "title":"Cancer man will be happy with a very personal gift.",
+             "tip":["Pillow with his name","Homemade cake","Romantic CD","Voucher for a stay in his favorite place","New seat covers for his car"]
+           },
+           "grandparents": {
+             "title":"Gemini grandparents still have an alert mind in old age. This should be considered when giving gifts.",
+             "tip":["Blanket","Pillow","Hot water bottle","Warm slippers","Good bottle of wine or liqueur","Homemade cake","Framed photo","Potted flower"]
+           }
+            }     
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+        "horoscope": {
+            "child":{
+             "title":"Little Leo likes to show off. Choose gifts that reflect that.",
+              "tip":["Luxury toys","Doll stroller","Remote-controlled car","Nice clothing item","Shoes"]
+            },
+            "women": {
+             "title":"Mrs. Leo should not receive simple or practical gifts. A touch of glamour should already be there!",
+             "tip":["Extravagant clothing item","Expensive perfume","Valuable jewelry","Unusual accessory","Invitation to an upscale restaurant","Bouquet: Long-stemmed roses, orchids"]
+           },
+           "man": {
+             "title":"He doesn't consider himself an average consumer and has certain demands.",
+             "tip":["Weekend voucher in a metropolis","Excellent aftershave","Paperweight","Elegant leather wallet","Brand wristwatch","Book related to his main interests"]
+           },
+           "grandparents": {
+             "title":"Leo grandparents still love extravagance.",
+             "tip":["Leather-bound book","Gift basket with noble delicacies","Deck of cards in an extravagant leather case","Exclusive fountain pen"]
+           }
+            }   
+      },
+      {
+        "sign": "Virgo",
+        "logo":"♍",
+        "horoscope": {
+            "child":{
+             "title":"Virgo child is not demanding. Gifts don't have to be expensive but meaningful.",
+              "tip":["Book","Educational game","Puzzle","Toys","Binoculars"]
+            },
+            "women": {
+             "title":"Mrs. Virgo will appreciate any practical and substantial gift.",
+             "tip":["Cookbook","Gardening guide","Budget planner","Microwave","Massage brush","Hair dryer","Nail case","Bouquet: Carnations, dahlias"]
+           },
+           "man": {
+             "title":"Virgo man also values practicality when it comes to gifts.",
+             "tip":["Book relevant to his interests","Sweater","Belt","Scarf","Item for his stamp, coin, or pipe collection","Handy alarm clock or watch"]
+           },
+           "grandparents": {
+             "title":"Older Virgos can be modest, but order and cleanliness are important to them.",
+             "tip":["Chess game","Heating pad","Barometer","Puzzles","Photo album","Rug"]
+           }
+            }  
+      },
+      {
+        "sign": "Libra",
+        "logo":"♎",
+        "horoscope": {
+            "child":{
+             "title":"Libra children love to please and are good playmates.",
+              "tip":["Clothing","Shoes","Children's makeup set","Hair accessories","Game collection"]
+            },
+            "women": {
+             "title":"Mrs. Libra has taste and places great importance on looking good.",
+             "tip":["Beauty farm voucher","Elegant clothing item or jewelry","Invitation to lunch at a classy restaurant","Bouquet: Orchids"]
+           },
+           "man": {
+             "title":"Mr. Libra is charming, and his gifts should be charming as well.",
+             "tip":["Body lotion","Aftershave","Gym voucher","Wallet","Belt"]
+           },
+           "grandparents": {
+             "title":"Libra grandparents are friendly people. They enjoy everything that makes life pleasant.",
+             "tip":["Gift basket","Potted plant","Ornament"]
+           }
+            }   
+      },
+      {
+        "sign": "Scorpio",
+        "logo":"♏",
+        "horoscope": {
+            "child":{
+             "title":"Scorpio child is a little explorer and loves to experiment.",
+              "tip":["Magic box","Experiment kit","Books"]
+            },
+            "women": {
+             "title":"Mrs. Scorpio is confident, and gifts should be related to her personality.",
+             "tip":["Piece of jewelry with her favorite gemstone","Invitation to her favorite restaurant","Clothing item from her favorite boutique","Bouquet: Lilies"]
+           },
+           "man": {
+             "title":"Scorpio man is stubborn. Gifts for him should have a personal touch.",
+             "tip":["Follow his desires when it comes to Scorpio man gifts."]
+           },
+           "grandparents": {
+             "title":"Scorpio grandparents want to remain as independent as possible. They don't like to be bothered.",
+             "tip":["Shopping cart","Playing cards","Dietary supplements"]
+           }
+            }     
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+            "child":{
+             "title":"Sagittarius child is active and needs company.",
+              "tip":["Games","Skiing","Sled","Ice skates","Books","Ball","Badminton set"]
+            },
+            "women": {
+             "title":"Mrs. Sagittarius appreciates gifts that suit her interests.",
+             "tip":["Books","Travel guide","Piece of jewelry","Bouquet: Gladioli"]
+           },
+           "man": {
+             "title":"Sagittarius man, with a wide range of interests, is happy to be invited to activities.",
+             "tip":["Hot air balloon or kite flying invitation","Sneakers","Sports clothing","Adventure weekend voucher"]
+           },
+           "grandparents": {
+             "title":"Sagittarius grandparents love their independence and don't want to get lost in a retirement home.",
+             "tip":["Senior citizen voucher","Bus ride","Tea dance for senior citizens","Books","Puzzles"]
+           }
+            }      
+      },
+      {
+        "sign": "Capricorn",
+        "logo":"♑",
+        "horoscope": {
+            "child":{
+             "title":"Capricorn child is ambitious and patient.",
+              "tip":["Building set","Craft Kit","Puzzles","Telescope","Book","Microscope"]
+            },
+            "women": {
+             "title":"Mrs. Capricorn loves tangible things and doesn't appreciate anything unstable. It should be durable and of stable value.",
+             "tip":["Piece of jewelry","Watch","Cooking utensil","Bouquet: Iris"]
+           },
+           "man": {
+             "title":"Capricorn man is convinced only by quality.",
+             "tip":["Tool bag","Document holder","Watch","Pocket watch"]
+           },
+           "grandparents": {
+             "title":"With Capricorn grandparents, gifts should also be of high quality.",
+             "tip":["Headphones","Big-button mobile phone","Blanket","Card game","Book","Board game"]
+           }
+            }      
+      },
+      {
+        "sign": "Aquarius",
+        "logo":"♒",
+        "horoscope": {
+            "child":{
+             "title":"Aquarius child has imagination and is always on the move. No waiting games, please!",
+              "tip":["Book","Games","Jump Rope","Ball"]
+            },
+            "women": {
+             "title":"Aquarius woman loves to travel.",
+             "tip":["Adventure weekend or short trip voucher","Tickets to the cinema, opera, or musical"]
+           },
+           "man": {
+             "title":"Aquarius is an adventurer, and gifts for him should also be adventurous.",
+             "tip":["Navigation system","Sports gear","Adventurous short trip"]
+           },
+           "grandparents": {
+             "title":"Aquarius grandparents are still interested in many things and are adventurous.",
+             "tip":["Boat trip invitation","Travel Bag","Travel guide","Bus travel voucher","Board game","Sudoku","Shopping cart"]
+           }
+            }      
+      },
+      {
+        "sign": "Pisces",
+        "logo":"♓",
+        "horoscope": {
+            "child":{
+             "title":"Pisces child is not a daredevil. They love gifts in a calmer variant.",
+              "tip":["Book","DVD","Coloring book","Lego bricks","Modeling","Doll","Play train","Audio book","Plush animal"]
+            },
+            "women": {
+             "title":"Pisces woman loves romance.",
+             "tip":["Invitation to a romantic hotel","Perfume","Accessories","Cinema voucher","Piece of jewelry","Handbag","Chocolates","DVD","Cuddly pillow","Bouquet: Orchids"]
+           },
+           "man": {
+             "title":"Pisces man looks forward to a suitable gift for his hobby.",
+             "tip":["Item for his collection (stamps, coins)","CD","Book","Tie","Cinema or theater voucher","Good bottle of wine"]
+           },
+           "grandparents": {
+             "title":"Baki and Djed Pisces don't need much.",
+             "tip":["Potted plant","Blanket","Reading lamp","Gift basket","Candle holder","Framed photo"]
+           }
+            }      
+      }
+    ]
+  }
+  
+
+
+
+
+
+
+
+
+   

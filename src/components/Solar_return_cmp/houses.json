@@ -1,0 +1,67 @@
+{
+    "houses": [
+        {
+            "house": 1,
+            "sign": "Aries",
+            "degree": 13.25529
+        },
+        {
+            "house": 2,
+            "sign": "Taurus",
+            "degree": 43.01473
+        },
+        {
+            "house": 3,
+            "sign": "Gemini",
+            "degree": 68.55911
+        },
+        {
+            "house": 4,
+            "sign": "Cancer",
+            "degree": 93.78243
+        },
+        {
+            "house": 5,
+            "sign": "Leo",
+            "degree": 122.1002
+        },
+        {
+            "house": 6,
+            "sign": "Virgo",
+            "degree": 155.86703
+        },
+        {
+            "house": 7,
+            "sign": "Libra",
+            "degree": 193.25529
+        },
+        {
+            "house": 8,
+            "sign": "Scorpio",
+            "degree": 223.01473
+        },
+        {
+            "house": 9,
+            "sign": "Sagittarius",
+            "degree": 248.55911
+        },
+        {
+            "house": 10,
+            "sign": "Capricorn",
+            "degree": 273.78243
+        },
+        {
+            "house": 11,
+            "sign": "Aquarius",
+            "degree": 302.1002
+        },
+        {
+            "house": 12,
+            "sign": "Pisces",
+            "degree": 335.86703
+        }
+    ],
+    "ascendant": 37.368916222730974,
+    "midheaven": 297.8960549871522,
+    "vertex": 194.57571878743278
+}

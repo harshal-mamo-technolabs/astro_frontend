@@ -1,0 +1,133 @@
+
+@media (min-width: 340px)  {
+ .compatibility{
+ top: 15rem;
+ }
+ .compatibility{
+ position: absolute;
+ top: 20rem;
+ }
+}
+@media (min-width: 430px)  {
+  .swipercontainer{
+    height: 55vh;
+  }
+  .hotdeal{
+    width: 113.5% !important;
+  }
+  .compatibility{
+    position: absolute;
+    top: 20rem;
+    }
+ 
+ 
+}
+
+@media (min-width: 375px) {
+
+    .compatibility{
+        width: 70%;
+        /* right: 5rem; */
+        top: 17.5rem;
+    }
+    .swipercontainer{
+      height: 55vh;
+    }
+    .compatibility{
+      position: absolute;
+      top: 20rem;
+      }
+  }
+
+  @media (min-width: 414px)  {
+    .swipercontainer{
+      height: 55vh;
+    }
+    .hotdeal{
+      width: 20.7rem;
+    }
+    .compatibility{
+     
+      /* right: 7rem; */
+      top: 17.5rem;
+  }
+  
+  }
+
+  @media (min-width: 390px)  {
+    
+    .swipercontainer{
+      height: 55vh;
+    }
+    .compatibility{
+      width: 65%;
+      /* right: 6rem; */
+      top: 18.2rem;
+  }
+  }
+ 
+
+@media (max-width: 390px)  {
+  .swipercontainer{
+    height: 55vh;
+  }
+    .hotdeal{
+      width: 120.5%;
+    }
+     
+  }
+
+  
+@media (min-width: 768px)  {
+  .swipercontainer{
+    height: 55vh;
+  }
+    .hotdeal{
+      width: 117.2% ;
+    }
+   
+    .months{
+        bottom: 30%;
+    }
+    .free{
+        bottom:18%;
+    }
+    .billed{
+        bottom: 10%;
+    }
+    .customcss{
+      right: 20rem;
+    }
+    .compatibility{
+      top: 17.5rem;
+      /* right: 16rem; */
+  }
+     
+  }
+
+  
+
+/* 
+  @media (min-width:375px) {
+    .hotdeal{
+        width: 11.5%;
+    }
+  }
+
+
+  @media (min-width:430px) {
+    .hotdeal{
+        width: 110.5%;
+    }
+  }
+
+  @media (max-width:768px) {
+    .hotdeal{
+        width: 113.5%;
+    }
+    .months{
+       margin-top: 10px;
+    }
+   
+    
+  } */

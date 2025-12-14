@@ -1,0 +1,89 @@
+{
+  "zodiacSigns": [
+    {
+      "sign": "Aries",
+      "logo":"♈",
+      "horoscope": {
+        "summary": "The typical wardrobe will undoubtedly be diverse. This zodiac sign is never bored and always appreciates new things when it comes to clothing and styling. Aries likes to experiment and combine as much as possible. Even if things are colorful and diverse, Aries' taste always reveals a certain sense of style. They know exactly what's in and love adding modern accents."
+      }
+    },
+    {
+      "sign": "Taurus",
+      "logo":"♉",
+      "horoscope": {
+        "summary": "Down-to-earth Taurus will never spend money on unnecessary clothes and, when choosing clothing, pays attention to timeless elegance and quality, but also to the price. If Taurus can get a particularly nice and quality piece from a high-end brand at a special price, they will proudly wear it. They love noble materials and want to indulge themselves."
+      }
+    },
+    {
+      "sign": "Gemini",
+      "logo":"♊",
+      "horoscope": {
+        "summary": "Lively Gemini certainly does not wear boring clothes. They move with the times and easily adapt to the prevailing fashion trend. However, they prefer a casual style. Strict professional dress codes are a punishment for Geminis. If they have to adhere to conservative dress regulations at work, they will discard them as soon as possible after work and wrap themselves in their favorite modern clothes."
+      }
+    },
+    {
+      "sign": "Cancer",
+      "logo":"♋",
+      "horoscope": {
+        "summary": "The moods of those born under Cancer are as changeable as the weather. It's not surprising that their fashion taste can suddenly turn into a complete opposite. Yesterday you saw Cancer running in a conservative, strict suit with a blouse and a mandatory scarf, but today they might surprise you in a colorful and nostalgic hippie-style coat."
+      }
+    },
+    {
+      "sign": "Leo",
+      "logo":"♌",
+      "horoscope": {
+        "summary": "Leo loves to be in the spotlight and shines with a convincing outfit for every occasion. When it comes to fashion, they have an exceptionally good taste and attach great importance to a perfect and radiant look, which can, of course, come at a cost. You won't find Leo in outlet stores. Sometimes they may tend to be a bit extravagant, and a signet ring or a gold chain might be a little thicker. But good taste never falls by the wayside; on the contrary, Leo always focuses on quality and a good appearance everywhere."
+      }
+    },
+    {
+      "sign": "Virgo",
+      "logo":"♍",
+      "horoscope": {
+        "summary": "You can say a lot about Virgo, but one thing for sure: sloppiness is not their style. No one will ever spot Virgo in dirty or unkempt clothes. The love for cleanliness and order can be found in the clothing style of this zodiac sign. No button will be missing, and no unironed spot will be found. In addition, Virgo prefers an understated but extremely well-groomed dressing style. They can do without modern embellishments, but the ratio of price to performance should definitely be right."
+      }
+    },
+    {
+      "sign": "Libra",
+      "logo":"♎",
+      "horoscope": {
+        "summary": "Beauty and good looks are especially important to Libras. They have a good sense of fashion and do a lot to look elegant and occasionally a bit extravagant. Libra's wardrobe is full to the brim, so they always have a large selection when putting together their outfit. For Libra, everything must match perfectly. It's not uncommon for them to have the right pair of shoes ready for each outfit. It's not a problem for Libras to look attractive anytime and anywhere."
+      }
+    },
+    {
+      "sign": "Scorpio",
+      "logo":"♏",
+      "horoscope":{
+        "summary": " In the wardrobe of those born under Scorpio, there is usually a colorful fashion chaos of various clothes of different quality and style. A favorable offer from an outlet has an equal place in the wardrobe as a noble dress from a prestigious fashion brand. Clothing and combinations are not necessarily ultimate for Scorpios, but that doesn't mean they don't appreciate a good look and public image. Occasionally, the fashion mix can be a bit unconventional and wild."
+
+      }
+    },
+    {
+      "sign": "Sagittarius",
+      "logo":"♐",
+      "horoscope": {
+        "summary": "Sagittarius and fashion are two different things! Born Sagittarius usually prefers an unconventional and casual clothing style. They determine the composition themselves. There is no ambition to always adhere to prevailing fashion codes or dress in the latest trends. Nothing is forced on them, and they wear exactly what they want. Sagittarius doesn't mind if their favorite jacket is a bit worn out; they will wear it gracefully as long as it suits them. Despite everything, they still have the talent to leave a good impression in terms of outfit and attract attention!"
+      }
+    },
+    {
+      "sign": "Capricorn",
+      "logo":"♑",
+      "horoscope": {
+        "summary": "Fashion and outfits are unlikely to be the central theme in the life of a classic Capricorn unless they are professionally involved in it. Capricorn doesn't feel the need to change clothes every season but buys something they will wear exactly when needed. However, they always have a sufficient base of selected high-quality pieces and always look perfectly dressed. Capricorns don't like to rely on improvisation, so things that belong together are always ready in the closet."
+      }
+    },
+    {
+      "sign": "Aquarius",
+      "logo":"♒",
+      "horoscope": {
+        "summary": "Take a good dose of extravagance and spice it up with an unusual mix of colors. Add a feather to your hat and a pinch of style, and the outfit is ready. The fashion recipe for a typical Aquarius could be something like this. This free-spirited zodiac sign values independence and does not allow itself to be dictated to when it comes to fashion, and certainly does not want to be pressed into ready-made patterns. Their very own way of preparing and dressing often makes Aquarians a shining personality. Although what they wear usually suits them, their style of dressing is often unconventional, and sometimes a bit provocative, not always meeting approval everywhere. However, that won't stop a true Aquarius from remaining true to themselves, faithful to the motto: Everything I like is allowed!"
+      }
+    },
+    {
+      "sign": "Pisces",
+      "logo":"♓",
+      "horoscope": {
+        "summary": "Sensitive Pisces usually have a good sense of how to dress so that they feel comfortable and look pleasing to the outside world. Over time, Pisces develop their own style, which can be a mix of modern and sophisticated and timeless elegance. Pisces have a pronounced talent for combining clothing items from very different fashion eras that still go well together. Pisces will always be well-dressed among people and will never make a fool of themselves."
+      }
+    }
+  ]
+}

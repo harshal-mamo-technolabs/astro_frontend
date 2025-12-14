@@ -1,0 +1,153 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+        "logo":"♈",
+        "horoscope": {
+          "summary": "Aries does not think for long, acts impulsively, and often overreacts. In astrology, it is said that Aries' energy has excess vitality but also restlessness and volatility. They are usually under tension, which is why they are said to be prone to headaches and dizziness. The risk of head injuries is high in childhood and adolescence. Eyes and teeth are in danger and can cause problems. Too much sun can be especially dangerous for those born under Aries.",
+           "recommendation":[" Ensure you take enough rest breaks"," Develop hobbies"," Release tension through sports"," Do not overexert your strength"," Regularly check your teeth"," Avoid wearing tight clothing"," Exercise a lot to avoid energy congestion"]
+        }
+      },
+      {
+        "sign": "Taurus",
+        "logo":"♉",
+        "horoscope": {
+            "summary": "Taurus is persistent and usually quite conservative. They stick to what is theirs. Their patience often goes so far that they are not willing to leave an unsatisfactory situation and change their lives. They may prefer to stay in a home contaminated with toxins rather than think about moving. Taurus is prone to chronic diseases and tends to overeat during meals, quickly accumulating excess fat. Food digestion and metabolism often do not go hand in hand. Astrology attributes Taurus with a tendency to diseases in the neck area, especially tonsillitis, throat diseases, and thyroid issues, as well as swelling of lymph nodes and diseases of the ears and frontal sinuses. When Taurus is sick, they usually recover slowly.",
+             "recommendation":[" Pay attention to a low-fat diet","  Eat smaller portions"," Drink plenty of water", " Do a day of fasting each week"," Regularly check cholesterol levels"," Engage in non-competitive sports, but get enough exercise" ," Reduce excess weight"]
+          }
+      },
+      {
+        "sign": "Gemini",
+        "logo":"♊",
+        "horoscope": {
+            "summary": "Geminis, eager learners, intuitively and spontaneously understand even complex connections. With their multitude of interests, something like mental fragmentation often occurs. Their insatiable curiosity promotes nervousness. According to astrological experience, Geminis should easily handle psycho-vegetative exhaustion (burnout), neuritis, injuries to the hands, fingers, and wrists. Despite being prone to lung problems, Gemini smokers often refuse to quit.",
+             "recommendation":[" Stay or become a non-smoker"," Pay attention to regular outdoor exercise"," Engage in sports"," Practice breathing and relaxation exercises"," Take regular breaks"," Ensure you get enough sleep"]
+          }
+      },
+      {
+        "sign": "Cancer",
+        "logo":"♋",
+        "horoscope": {
+            "summary": "Cancer is considered very cautious, sensitive, and highly vulnerable. They often have unnecessary thoughts and worries, thinking a lot about the past. Emotional conflicts particularly burden those born under Cancer. If they don't feel comfortable in an environment they perceive as negative or in the company of other people, they quickly experience stomach discomfort. Heartburn, constipation, and gastritis are also common problems for Cancer. If grieving, experiencing loss, or defeat, their immune system may go on strike, making it easier for bacteria and viruses to open the door to various illnesses.",
+             "recommendation":[" Always have meals in a calm and harmonious atmosphere"," Eat plenty of fish"," Avoid excessive body weight"," Practice yoga, autogenic training, or other relaxation methods"," Regularly engage in positive thinking"," Dance, play, and participate in sports"]
+          }
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+        "horoscope": {
+            "summary": "Cardiovascular diseases, back problems, hardening of the arteries, and rheumatism are considered typical Leo illnesses in astrology. Pride, strength, power, and success characterize this zodiac sign. However, no matter how strong Leo feels, there is always a risk of complete exhaustion, and out of false pride, they may be willing to endure more than is good for them. Excessive demands on this zodiac sign can easily be detrimental to health, and it is not uncommon for it to affect the heart. If an unhealthy lifestyle is added to this, illnesses have a good chance of completely catching up with Leo. However, in the case of acute infections, they have a clear advantage. Leo will usually overcome them much faster than many other zodiac signs.",
+             "recommendation":[
+                "Avoid unhealthy lifestyles",
+                "Ensure you get enough rest",
+                "Seek relaxation in a pleasant atmosphere",
+                "Accept human weakness and defeat as part of life",
+                "Avoid excessive demands and constant stress",
+                "Undergo regular routine check-ups"
+              ]
+              
+          }
+      },
+      {
+        "sign": "Virgo",
+        "logo":"♍",
+        "horoscope": {
+            "summary": "Virgos are often accused of being critical know-it-alls who love to complain. With their inherently critical approach to life, Virgos often find it difficult to allow themselves mistakes or flaws. It is not uncommon for them to see their work as their purpose in life. Virgo pays great attention to their health and body, appreciates healthy eating, and regular doctor check-ups. In addition, some Virgos often practice excessive personal hygiene. The fear of illness can escalate into hypochondria. Even the mere description of an illness can cause physical symptoms in Virgo. Astrology attributes nervous diseases and psychoses to this zodiac sign, and weak points include digestive organs. Constipation, diarrhea, liver and gallbladder diseases, and a tendency to bloating are among the classic issues for Virgo",
+             "recommendation":[
+                "Free digestive organs with natural, chemical-free food",
+                "Adopt a vegetarian diet whenever possible",
+                "Avoid eating after 6:00 PM",
+                "Ensure you get enough sleep, go to bed early",
+                "Consciously become more generous and allow mistakes"
+              ]
+          }
+      },
+      {
+        "sign": "Libra",
+        "logo":"♎",
+        "horoscope": {
+            "summary": "Libras relax best in beautiful surroundings. Your constant effort to find balance is reflected in your bodily functions. This zodiac sign primarily deals with controlling kidney function and metabolism. Additionally, the lumbar region is at risk, and the nervous system is often unstable. Libras are also presumed to have a tendency toward allergies and skin diseases.",
+             "recommendation":[
+                "Keep the kidney and foot areas warm",
+                "Run for at least ten minutes a day",
+                "Consume silicon with yogurt for acid-base balance",
+                "Be creative",
+                "Maintain friendships"
+              ]
+          }
+      },
+      {
+        "sign": "Scorpio",
+        "logo":"♏",
+        "horoscope": {
+            "summary": "Generally introverted and introspective, Scorpio is more influenced by instincts than reason. Astrologically, the urological system is subject to this zodiac sign, and on this front, health hazards are present. The tendency towards infections of the urinary system and inflammation in this area, as well as impure skin as a result of organ dysfunction and constipation, are considered typical Scorpio diseases. Suppressed mental conflicts can easily lead to apathy and depression in Scorpio.",
+             "recommendation":[
+                "React to injuries",
+                "Create a conflict-free environment",
+                "Treat yourself to regular short trips and a change of scenery",
+                "If possible, exercise outdoors",
+                "Practice relaxation exercises and breathing exercises"
+              ]
+          }
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+            "summary": "According to astrology, Sagittarius has pronounced vitality and the ability for rapid regeneration. They are born optimists. This zodiac sign is not prone to self-doubt or depression, but only if they can truly live their idealism. Sentimentality and worldly pain have a chance with Sagittarius only if external influences and restrictive life conditions take away their good mood, self-confidence, and optimism. In risky sports, as well as skiing, there is a tendency for Sagittarians to experience accidents. They are usually affected in the thighs and hips. The hip joint is considered a particular weak point.",
+             "recommendation":[
+                "Avoid risks in sports",
+                "Protect bones and joints",
+                "Compensate for the urge to move through endurance sports",
+                "Avoid boredom through diversity",
+                "Do not miss social gatherings"
+              ]              
+          }
+      },
+      {
+        "sign": "Capricorn",
+        "logo":"♑",
+        "horoscope": {
+            "summary": "Overall, astrology confirms that the Capricorn zodiac sign has robust health. They can endure a lot and usually look forward to old age. Problems with the musculoskeletal system, bone, and joint problems, as well as skin diseases, may bother them, though.",
+             "recommendation":[
+                "Pay attention to regular detoxification of the body",
+                "Avoid taking too many medications if possible",
+                "Drink plenty of water",
+                "Always stay warm"
+              ]
+          }
+      },
+      {
+        "sign": "Aquarius",
+        "logo":"♒",
+        "horoscope": {
+            "summary": "The temperamental Aquarius likes to turn night into day and often falls asleep in front of the television. Often, they cannot get out of bed in the morning. Astrology attributes a tendency to nervous problems, an increased risk of accidents, low blood pressure, and stagnation in veins and varicose veins to Aquarius. Aquarius's muscles are not built for strength. Bone fractures can be a consequence of excessive use. Aquarius cares little about their diet and does not have regular eating habits.",
+             "recommendation":[
+                "Exercise enough in the fresh air",
+                "Go for walks frequently",
+                "Eat consciously and regularly",
+                "Prefer light food",
+                "Do not eat anything after 6:00 PM",
+                "Pay attention to a healthy and uninterrupted night's sleep"
+              ]
+          }
+      },
+      {
+        "sign": "Pisces",
+        "logo":"♓",
+        "horoscope": {
+            "summary": "Born under Pisces are easily impressed and depend on external influences. They are extremely sensitive and have good intuition. A tendency to cold feet can stimulate diseases and colds. Daily stress, worries, and fears often burden Pisces more than other zodiac signs. Unfortunately, their mental constitution is not the best, and self-esteem is not highly expressed. There is sensitivity to depression and addiction. Intestinal diseases, disorders of the lymphatic system, and allergies are also among typical Pisces illnesses.",
+             "recommendation": [
+                "Swim for half an hour every day",
+                "Avoid alcohol and drugs",
+                "Keep your feet warm at all times",
+                "Regularly cleanse and detoxify your body",
+                "Withdraw to yourself and recharge your batteries"
+              ]
+              
+              
+          }
+      }
+    ]
+  }
+  

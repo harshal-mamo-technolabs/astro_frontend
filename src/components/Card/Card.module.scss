@@ -1,0 +1,192 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+.cardWrapper {
+  width: 33.3%;
+  color: $white;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-height: 430px;
+  @media screen and (max-width: $laptop-L) {
+    min-height: 340px;
+  }
+  @media screen and (max-width: $tablet-M) {
+    padding: 3px;
+    min-height: 320px;
+  }
+  @media screen and (max-width: $phone-M) {
+    min-height: 300px;
+  }
+  .cardInner {
+    border-radius: 10px;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    background: $card-gradient;
+    transition: all 0.5s ease-out;
+    &:hover,
+    &:focus {
+      transform: scale(1.01);
+      background: linear-gradient(
+        180deg,
+        rgba(210, 67, 209, 1) 10%,
+        rgba(105, 33, 182, 1) 10%,
+        rgba(12, 12, 12, 1) 78%
+      );
+    }
+    @media screen and (max-width: $laptop-L) {
+      padding: 7px 0 5px 0;
+    }
+    @media screen and (max-width: $tablet-M) {
+      font-size: 12px;
+    }
+  }
+  .clickedCard {
+    border-radius: 10px;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    background: linear-gradient(
+      180deg,
+      rgba(210, 67, 209, 1) 10%,
+      rgba(105, 33, 182, 1) 10%,
+      rgba(12, 12, 12, 1) 78%
+    );
+    @media screen and (max-width: $laptop-L) {
+      padding: 7px 0 5px 0;
+    }
+    @media screen and (max-width: $tablet-M) {
+      font-size: 12px;
+    }
+  }
+
+  .cardTitle {
+    color: $white;
+    font-size: 20px;
+
+    @media screen and (max-width: $laptop-L) {
+      font-size: 16px;
+    }
+
+    @media screen and (max-width: $phone-M) {
+      font-size: 12px;
+    }
+  }
+  .cardSubtitle {
+    color: $white;
+    margin-top: 30px;
+    font-size: 28px;
+
+    @media screen and (max-width: $laptop-L) {
+      font-size: 20px;
+      margin-top: 12px;
+    }
+    @media screen and (max-width: $tablet-M) {
+      font-size: 22px;
+    }
+
+    @media screen and (max-width: $phone-M) {
+      font-size: 16px;
+      margin-top: 14px;
+    }
+  }
+  .cardTrial {
+    color: $pink;
+    font-size: 24px;
+    margin: 0px 0;
+
+    @media screen and (max-width: $laptop-L) {
+      font-size: 20px;
+    }
+
+    @media screen and (max-width: $tablet-M) {
+      font-size: 18px;
+    }
+    @media screen and (max-width: $phone-M) {
+      font-size: 14px;
+    }
+  }
+
+  .price {
+    font-size: 22px;
+    color: $pink;
+    @media screen and (max-width: $laptop-L) {
+      font-size: 18px;
+    }
+    @media screen and (max-width: $phone-M) {
+      font-size: 16px;
+    }
+  }
+
+  .arrow {
+    color: $dark-pink;
+    font-size: 40px;
+    cursor: pointer;
+
+    @media screen and (max-width: $laptop-L) {
+      font-size: 30px;
+    }
+  }
+}
+
+.list {
+  list-style: none;
+  margin: 10px 0;
+
+  .item {
+    line-height: 20px;
+
+    @media screen and (max-width: $laptop-L) {
+      line-height: 18px;
+    }
+    @media screen and (max-width: $tablet-M) {
+      line-height: 16px;
+    }
+  }
+}
+
+.dropdownToggle {
+  background-color: none;
+  height: 40px;
+  @media screen and (max-width: $laptop-L) {
+    height: 30px;
+  }
+}
+.shortContent {
+  font-size: 20px;
+  @media screen and (max-width: $laptop-L) {
+    font-size: 18px;
+  }
+  @media screen and (max-width: $tablet-M) {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
+.billed {
+  font-size: 10px;
+  color: $gray;
+
+  @media screen and (max-width: $tablet-S) {
+    font-size: 8px;
+  }
+  @media screen and (max-width: $phone-L) {
+    font-size: 7px;
+  }
+  @media screen and (max-width: $phone-M) {
+    font-size: 6px;
+  }
+}
+
+.discount {
+  font-size: 18px;
+  margin-bottom: 5px;
+  @media screen and (max-width: $laptop-L) {
+    font-size: 16px;
+  }
+}

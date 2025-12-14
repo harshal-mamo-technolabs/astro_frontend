@@ -1,0 +1,157 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1140px;
+
+  @media screen and (max-width: $tablet-M) {
+    padding: 5px;
+  }
+}
+
+.card {
+  width: 33.3%;
+  color: $white;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-height: 430px;
+  cursor: pointer;
+
+  @media screen and (max-width: $laptop-L) {
+    min-height: 340px;
+  }
+  @media screen and (max-width: $tablet-M) {
+    padding: 3px;
+    min-height: 320px;
+  }
+  @media screen and (max-width: $phone-M) {
+    min-height: 300px;
+  }
+}
+
+.card-inner {
+  border-radius: 10px;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+  background: $card-gradient;
+  transition: all 0.5s ease-out;
+
+  &:hover,
+  &:focus {
+    transform: scale(1.01);
+    background: linear-gradient(
+      180deg,
+      rgba(210, 67, 209, 1) 10%,
+      rgba(105, 33, 182, 1) 10%,
+      rgba(12, 12, 12, 1) 78%
+    );
+  }
+
+  @media screen and (max-width: $laptop-L) {
+    padding: 7px 0 5px 0;
+  }
+  @media screen and (max-width: $tablet-M) {
+    font-size: 12px;
+  }
+}
+
+.card-title {
+  color: $white;
+  font-size: 20px;
+
+  @media screen and (max-width: $laptop-L) {
+    font-size: 16px;
+  }
+
+  @media screen and (max-width: $phone-M) {
+    font-size: 12px;
+  }
+}
+
+.card-subtitle {
+  color: $white;
+  margin-top: 30px;
+  font-size: 28px;
+}
+
+.card-trial {
+  color: $white;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.card-content {
+  margin-top: 20px;
+  position: relative;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.arrow {
+  width: 24px;
+  height: 24px;
+  color: $white;
+}
+
+.short-content {
+  color: $white;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.item {
+  color: $white;
+  font-size: 14px;
+  margin: 5px 0;
+  padding-left: 20px;
+  position: relative;
+
+  &:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: $white;
+  }
+}
+
+.discount {
+  color: #4CAF50;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.price {
+  color: $white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.billed {
+  color: $white;
+  font-size: 12px;
+  margin-top: 5px;
+} 

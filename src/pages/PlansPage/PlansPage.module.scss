@@ -1,0 +1,101 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+.planPage {
+  display: flex;
+  flex-direction: column;
+
+  .subtitle {
+    color: $pink;
+    text-align: center;
+    margin: 10px 20px;
+    font-size: 30px;
+    font-weight: 400;
+
+    @media screen and (max-width: $laptop-L) {
+      font-size: 24px;
+    }
+    @media screen and (max-width: $tablet-L) {
+      font-size: 22px;
+      line-height: 24px;
+    }
+    @media screen and (max-width: $phone-M) {
+      font-size: 20px;
+      line-height: 20px;
+    }
+  }
+
+  $colors: (
+    pulse: $button-hover,
+  );
+
+  @each $button, $color in $colors {
+    .#{$button} {
+      --color: #{$color};
+      --hover: #{adjust-hue($color, 45deg)};
+    }
+  }
+
+  button {
+    color: var(--color);
+    transition: 0.25s;
+
+    &:hover,
+    &:focus {
+      border-color: var(--hover);
+      color: $white;
+    }
+  }
+
+  .buttonWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+
+    .pulse {
+      background-color: $purple;
+      color: $white;
+      border-radius: 16px;
+      font-size: 26px;
+      width: 250px;
+      padding: 20px;
+      border: 0 solid;
+      cursor: pointer;
+
+      @media screen and (max-width: $laptop-L) {
+        font-size: 22px;
+        width: 200px;
+        padding: 10px;
+      }
+
+      &:hover,
+      &:focus {
+        animation: pulse 1s;
+        box-shadow: 0 0 0 2em transparent;
+      }
+
+      @keyframes pulse {
+        0% {
+          box-shadow: 0 0 0 0 var(--hover);
+        }
+      }
+    }
+  }
+}
+
+.subscriptionWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  .subscription{
+    color: $purple;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 14px;
+    width: 50%;
+    @media screen and (max-width: $tablet-L) {
+      width: 80%;
+    }
+  }
+}

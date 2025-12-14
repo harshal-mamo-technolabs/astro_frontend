@@ -1,0 +1,145 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+      "logo":"♈", 
+        "horoscope": {
+            "summary":"Aries, like Leo and Sagittarius, is born under the fire element. Always looking forward and never backward, Aries has a good perception, is spontaneous, constantly generates new ideas, and craves diversity. Excitement should not be lacking in Aries' career horoscope. Aries is fearless; on the contrary, they bravely embrace every challenge.",
+           "head":"Aries dictates where to go",
+           "headData":["Due to their readiness to take action and a good dose of assertiveness, Aries individuals can often be found in executive positions. However, their subordinates should not be clumsy. To get along well with their Aries boss, it's good to align with their beliefs and directives without much debate. Aries individuals can become quite unpleasant otherwise. However, their anger dissipates as quickly as it comes, and everything is usually forgotten shortly afterward. Aries holds no grudges.","If a routine job is required in professional life, Aries is not suited for it. Boredom and monotony are poison for them, especially at work. Aries reluctantly submits and is, therefore, better off in an independent profession. Whether a doctor or dentist with their own practice, a lawyer with their own office, a business owner, or a restaurateur – Aries does everything to achieve their goals directly and without detours. They are usually quite successful in doing so.","It's not uncommon to find Aries in artistic and free professions. For example, they make natural-born journalists, moderators, or actors. In politics, Aries takes on ministerial roles, energetically advocating for the interests they represent. Their goal is the top, and they do not settle for mediocrity."],
+           "occupations":"Lawyer, professional athlete, sculptor, surgeon, tailor, conductor, firefighter, industrialist, hunter, mechanical engineer, metal sculptor, butcher, police officer, blacksmith, veterinarian, dentist"
+        }    
+      },
+      {
+        "sign": "Taurus",
+     "logo":"♉",  
+       "horoscope": {
+            "summary":"Taurus, like Capricorn and Virgo, is an earth sign. They are cheerful and down-to-earth, getting along with almost everyone. However, they dislike hustle and stress, preferring a secure job where they know exactly what tasks await them. Patient and persistent, Taurus is highly valued by peers for their amiable and friendly nature, but they can become very angry if criticized or treated unfairly.",
+           "head":"Taurus has a lot of patience",
+           "headData":["Taurus is utterly realistic and not a dreamer. They love the money they earn and know precisely how to use it. More conservative, Taurus relies on proven methods and has a precise idea of how much of their income goes where, how much they save, and how much they spend. A negative balance in Taurus's account is likely an exception.","Taurus has an advantage in business when it comes to perseverance. Nothing can irritate them, no matter how long it takes. In any case, they won't allow themselves to be rushed. Taurus and change or constantly switching jobs do not go well together. They often struggle to assert themselves in leadership positions because they are anything but audacious. Taurus appreciates harmony, especially at work. Heated debates or disputes are not their thing.","Material values are crucial for Taurus. This makes them suitable for almost all professions. They are natural-born bankers or real estate agents. However, Taurus can also be found in artistic professions, provided there is the necessary security and assurance that income will be appropriate and regularly meet their expectations."],
+           "occupations":"Antique dealer, economist, stockbroker, forester, gardener, restaurateur, real estate agent, interior designer, pastry chef, farmer, musician, dancer, winemaker"
+        }
+    
+      },
+      {
+        "sign": "Gemini",
+    "logo":"♊", 
+       "horoscope": {
+            "summary":"Like Libra and Aquarius, Gemini belongs to the air element. Quick and decisive, Gemini doesn't like to stay in one place forever. They despise boredom but have excellent adaptability skills and thrive on change. With all these positive traits, Gemini is always friendly and adaptable, which is an asset in their professional life, especially because they always have fresh ideas ready.",
+           "head":"Gemini is a diplomat",
+           "headData":["Gemini is not acquainted with sluggishness; they are always open to changing locations or job roles. They love new stimuli and interactions with colleagues. Due to their versatility, it's not unusual for Gemini to have multiple jobs throughout their life. With their diplomatic and friendly nature, Gemini gets along equally well with superiors and colleagues. Occasionally, they can be busy and bring a certain amount of restlessness to their workplace, but a little fresh air can never hurt. With their weak nerves and tense work style, they are not particularly suited for jobs requiring hours of monotonous routine. Gemini prefers to reorient themselves every day and enjoys jobs that involve changing activities or tasks.","For instance, they are natural sales representatives or foreign correspondents. A Gemini engaged as a diplomat or scientist has made a good choice. Gemini is also in their element when it comes to travel. Jobs like a pilot, tour guide, entertainer, or bus driver suit them as much as running their own travel agency."],
+           "occupations":"Entertainer, foreign correspondent, bus driver, poet, diplomat, interpreter, air traffic controller, IT specialist, merchant, journalist, businessperson, critic, broker, moderator, pilot, travel agent, tour guide, singer, actor, writer, freight forwarder, flight attendant, phone operator, scientist, train conductor."
+        }
+    
+      },
+      {
+        "sign": "Cancer",
+    "logo":"♋",  
+      "horoscope": {
+            "summary":"Like Pisces and Scorpio, Cancer is a water sign. It is considered conservative, anxious, and often moody. The world of emotions plays a significant role in Cancer's life. If hurt, they quickly withdraw. They often suffer the most from mood swings and find it harder to handle criticism at work compared to many other zodiac signs.",
+           "head":"Cancer is there for others",
+           "headData":["Dangerous jobs are not for Cancer. They are certainly not born to be a stunt performer. They dislike taking risks and want a job where they feel safe and in good hands. Job changes are not for Cancer, and they don't want to constantly have new colleagues. After all, they want to know whom they are dealing with.","Their thoughtful and often introverted nature doesn't always make it easy for them to interact with colleagues. Additionally, they are often oversensitive and get offended if treated even slightly unfriendly or criticized. However, once they gain trust in superiors and colleagues, they become extremely reliable and ambitious team members. However, their excessive caution often prevents them from climbing a few more steps on the career ladder. They prefer to take one step forward and two steps back. They tend to be conservative, and when something is right, Cancer wants it to stay that way forever. They have no problems with routine work; on the contrary, they dislike boredom. Regardless of the job Cancer chooses, they usually make a career and find success.","Due to their imagination and deep emotional understanding, Cancer individuals are often found in artistic professions. They enjoy taking care of others and excel in empathizing with the emotional world of others. A good psychologist, they are in their element wherever their job involves people in psychological or other emergencies. Working in a hospital or nursing home is also suitable for Cancer. They like to get involved in the social field."],
+           "occupations":"General practitioner, geriatric nurse, pharmacist, civil servant, office worker, educator, restaurateur, lawyer, pediatrician, kindergarten teacher, chef, nurse, art dealer, artist, life coach, teacher, pilot, political scientist, educator, psychologist, director, sociologist, therapist"
+        }
+    
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+         "horoscope": {
+            "summary":"Like Aries and Sagittarius, Leo is at home in the fire element. They are impressive and proud contemporaries who boldly accept any challenge. Fear is a foreign word to them, as is boredom. Leo does not want to be subordinate; they possess good leadership qualities. Leo's self-confidence is quite pronounced, and they do not shy away from difficulties. Mediocrity is not for Leo. They aim to reach the top, and they usually succeed.",
+           "head":"Leo sets the tone",
+           "headData":["Leo's assertiveness is particularly pronounced, and they have an excellent talent for persuading their employees and utilizing them for their goals. If they are the boss and believe something is right, it is good to follow their instructions without lengthy arguments. Otherwise, Leo will inevitably do what they are known for: roar! Nevertheless, they are a patient colleague and a boss with whom you can easily get along as long as you respect them and share their beliefs. Justice and perseverance are among their prominent strengths. Leo is hard to deter from the goals they set for themselves in performing their job. They do everything confidently and always remain reliable, even when doing monotonous work, although they dislike boredom. Regardless of the job Leo chooses, they usually make a career and find success on their side.","Due to their leadership qualities, Leo is often found in leadership positions, both in the private sector and in government bodies or politics. But they can also perform equally well in the advertising industry or in the glamorous world of the media. Leo will also do a good job as the chief physician in a clinic."],
+           "occupations":"Physician, webmaster, diplomat, nutritionist, mechanic, TV host, businessperson, jeweler, lawyer, pastry chef, artist, manager, physician, musician, notary, politician, psychologist, actor, entrepreneur, watchmaker, publisher, administrator, scientist."
+        }
+    
+      },
+      {
+        "sign": "Virgo",
+      "logo":"♍",
+         "horoscope": {
+            "summary":"Like Taurus and Capricorn, Virgo is an earth sign. Individuals of this zodiac sign are considered orderly and hardworking. Wherever Virgo has their workplace: It will be neat. Virgo fulfills their tasks with reason, honesty, and sense. Patiently, day by day, they manage to overcome even the most boring routine work. Reliable and disciplined, they always keep a cool head, even in critical situations.",
+           "head":"Virgo is busy",
+           "headData":["Their diligence, love for order, willingness to help, and persistence mean that Virgos are equally appreciated by employers, superiors, and colleagues. The only potential problem could be their tendency to criticize, which is not always well-received everywhere. Overall, born in Virgo is a peaceful person who does not lose their temper even when faced with difficulties. They perform their tasks conscientiously and thoroughly and are never far from where there is work to be done. Virgo is considered modest and is not unhappy even in positions where they have to submit. Born in Virgo, one learns throughout life and also enjoys passing on what they have learned to others. A typical job for Virgo is teaching. Virgo will also feel at home in the librarian profession. Here, they can do both: learn and teach what they have learned.","Wherever there is something to organize, sort, tidy up, learn, and teach, Virgo is in the right place, doing it with discipline and professionalism. Flexibility is not always one of their strengths, but they take everything very seriously. Neat and clean is not only the external appearance of Virgo themselves; order prevails in their work space. In a chaotic environment, Virgo would not feel comfortable and would find it difficult to do productive work."],
+           "occupations":"Pharmacist, archivist, physician, medical assistant, civil servant, librarian, accountant, pharmacist, engineer, lawyer, laboratory assistant, teacher, mathematician, optician, physicist, secretary, technical draftsman, veterinarian, watchmaker"
+        }
+    
+      },
+      {
+        "sign": "Libra",
+       "logo":"♎", 
+         "horoscope": {
+            "summary":"Like Gemini and Aquarius, Libra is an air sign. These zodiac representatives are inspiring, flexible, and versatile. They do not know boredom. Libras are known for their adaptability and the need for harmony in dealing with other people. It is very difficult to engage in arguments with Libra as they embody diplomacy. In their professional life, Libra always remains collegial and honest, but they also require recognition.",
+           "head":"Libra loves to arbitrate",
+           "headData":["Libra usually has an exceptionally good taste. If they are professionally involved, for example, in the fashion industry or interior design, this quality will greatly benefit them. Libra is also often found in artistic professions. This is probably not only because of their inclination for self-expression. Wherever it is necessary to resolve differences of opinion, having Libra on the team ensures that a solution acceptable to everyone will be reached without quarrels and discord, thanks to their diplomatic approach. Due to their numerous good qualities, Libra is usually popular among employees and superiors. Libras do not tolerate injustice or mistreatment at work. They will do everything in their power to ensure that no one is neglected, and if someone is, their balanced nature will surely help resolve the issue without major disputes.","Although Libra is highly regarded in professional life, being reliable and hardworking, their private life will always take precedence. Workaholics are usually an exception among Libras. Libra is also not nearly as prone to burnout and other stress-related illnesses as some other zodiac signs. Even with the busiest pace, they will still exude a certain balance."],
+           "occupations":"Decorator, designer, diplomat, hairdresser, florist, photographer, graphic designer, interior designer, lawyer, art dealer, artist, model, media designer, fashion designer, musician, interior designer, actor, dancer, representative"
+        }
+    
+      },
+      {
+        "sign": "Scorpio",
+   "logo":"♏",  
+      "horoscope": {
+            "summary":"Like Cancer and Pisces, Scorpio is at home in the water element. The world of emotions is very important to these zodiac representatives. However, Scorpio is usually a strong personality that boldly pursues their goals. Unlike the other two water signs, Scorpio is not at all fearful. In their professional life, they do not shy away from conflicts, are service-oriented, and enjoy advocating for their colleagues. They are a respected colleague in the workers' council.",
+           "head":"Scorpio is not a good loser",
+           "headData":["Scorpio is rarely idle. They are hardworking, albeit somewhat unpleasant, employees. Scorpio believes in success and does not like it when people get in their way or even criticize them. They speak their mind directly, and if something is bothering them, they confront the other person directly. Detractors interpret this Scorpio trait as argumentativeness. They are often accused of bitterness and envy by colleagues. If you work with a person born under Scorpio, you can be sure that the workplace will not always be sunny. Scorpio values goals more than the desire for harmony.","If Scorpio feels treated unfairly, their superiors and employees responsible for it will clearly feel it. A true Scorpio naturally claims to be on the winning side, especially at work! Not every colleague can always understand the sudden mood swings of a Scorpio. However, Scorpio suffers the most. For professional life, they bring many good qualities that make them reliable and good employees or business partners. Above all, their superiors and colleagues appreciate their high level of dedication, diligence, flexibility, ambition, and self-confidence. They are a strong employee who does not hesitate in projects or companies they work for."],
+           "occupations":"Archaeologist, physician, undertaker, chemist, surgeon, detective, researcher, journalist, mechanic, psychiatrist, psychologist, lawyer, locksmith, soldier, diver, animal caretaker, urologist, prison officer"
+        }
+    
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+            "summary":"Sagittarius, like Aries and Leo, belongs to the fire element. These zodiac signs do not like to submit and love their freedom more than anything else. A high degree of self-confidence and optimism is especially important for Sagittarius. They are good speakers, promoters, and prefer to do something else every day. With their love for travel, they are born sales representatives or touring actors. With their cheerful charisma, they are usually welcome everywhere.",
+           "head":"Sagittarius does not like to be meddled with",
+           "headData":["In professional life, Sagittarius is always motivated and ready for action but also critical. Due to their inherent leadership qualities, they can often be found in managerial positions or in self-employed and freelance professions. They aim high and do not accept limitations. Their strong presence and charisma are sometimes interpreted by their colleagues as arrogance or conceit. However, it doesn't bother them much because a true Sagittarius knows best what they think of themselves, and that's how they present themselves to the outside world.","Whether Sagittarius is in a superior or colleague position, they always exude a certain superiority through their high level of knowledge. They are respected and accepted, although their direct and honest manner does not always meet the approval of all colleagues. Sagittarius does not like to be told what to do, and therefore, it may not be easy for them in positions where they should be obedient. However, they adapt when the situation demands it. Nevertheless, they would like to retain control over themselves. If you give them a certain amount of freedom in the workplace, they will gladly approach their tasks and take on a large workload. Sagittarius does not like to be bothered but always performs perfectly.","Sagittarians are good advisors and therapists because patience is one of their strong suits. They finish what they start. In professions that require diversity and a change of location, Sagittarius is also in the right place. Sales representatives or actors, therefore, fall among typical professions. Sagittarius excels in the field of human resources and wherever there is something to organize."],
+           "occupations":"Anthropologist, conductor, interpreter, entertainer, inventor, wholesaler, sales representative, educator, philosopher, pilot, politician, journalist/editor, travel agent, judge, actor, writer, representative, draftsman"
+        }
+    
+      },
+      {
+        "sign": "Capricorn",
+  "logo":"♑",   
+      "horoscope": {
+            "summary":"Capricorn is one of the earth signs and is particularly characterized by endurance, reliability, and ambition. Capricorn is also known for their high sense of duty and conscientiousness. You can rely on Capricorn 100%. This is appreciated by both their superiors and colleagues.Their achievements in professional life are impressive, and if you have Capricorn as a boss, you should be prepared to work overtime. Capricorn works diligently and perseveres.",
+           "head":"Capricorn is a sober realist and good with money",
+           "headData":["They convey their performance-oriented thinking to their colleagues. Capricorn counts on diligence and achieving set goals. As a manager, they take their claim to leadership very seriously. Employees get along well with them as long as they are not lazy. When faced with hard work, Capricorn does not hesitate to tackle it until everything is done satisfactorily. Capricorn's personality in professional life is appreciated by both superiors and colleagues, as there is hardly a more disciplined zodiac sign in the horoscope. Capricorn is not familiar with sick leave unless they are genuinely caught by an illness. Anyone who wants to impress Capricorn in their professional life would do well to praise them for their achievements rather than offer help. They prefer to handle tasks on their own but are happy to be appreciated. They don't like to be helped and remain persistent and firm even in the face of the greatest challenges.","Capricorns take their obligations very seriously but also insist on their rights. Their pronounced sense of justice earns them great respect, especially in professional life. Capricorns do not appreciate office gossip or sentimentality. Their behavior, which sometimes seems a bit reserved, is often interpreted as coldness or thoughtlessness.","It's not surprising that people born under Capricorn can be found in almost all professions because diligence, ambition, perseverance, reliability, and honesty are sought after everywhere. In any case, they approach tasks in a well-structured way and almost always achieve their goals with tremendous efficiency. Capricorns don't care much about competition. They will do everything to eliminate it with even more endurance and ambition."],
+           "occupations":"Antique dealer, architect, miner, accountant, diplomat, craftsman, notary, engineer, lawyer, farmer, mathematician, minister, politician, lawyer, restorer, soldier, tax advisor, watchmaker, administrative manager, auditor"
+        }
+    
+      },
+      {
+        "sign": "Aquarius",
+   "logo":"♒",  
+      "horoscope": {
+            "summary":"Aquarius is one of the air signs. They are flexible and value their independence. They need lively exchanges with others as much as they need air to breathe. They are considered generous and usually quite unconventional. Detractors, therefore, love to label them as unreliable or inaccurate. Aquarius gets along best with colleagues as long as they feel that whatever they do, they don't have to, but rather choose to do it that way. Their desire for freedom is enormous, and subservience or coercion has no chance with them. They would run away immediately.",
+           "head":"Aquarius does not like hierarchy",
+           "headData":["Aquarians have a strong team spirit but don't think much of any form of hierarchy. For Aquarius, everyone is equal, whether they are a manager or a cleaner. They do not know prejudices and therefore get along well with their colleagues. In their work, they have a talent for improvisation, and even in unusual and unforeseen situations, they quickly pull the chestnuts out of the fire before they burn. Stress and busyness at work don't bother Aquarians so much; on the contrary, that's when they really make progress.","From their employees, they expect a team spirit but are always open to factual suggestions and personal requests for leave. Aquarians find it a bit difficult with routine in their professional life; instead, they prefer to create their area of responsibility anew every day. Because of their openness, simplicity, and team spirit, they are almost predestined for jobs where they can contribute all these qualities."],
+           "occupations":"Electrical engineer, educator, new media expert, freelancer, hairdresser, border scientist, engineer, IT specialist, journalist, artist, marketing expert, psychiatrist, aviation technician, editor, entrepreneur, sociologist, technician"
+        }
+    
+      },
+      {
+        "sign": "Pisces",
+    "logo":"♓",
+        "horoscope": {
+            "summary":"Like Cancer and Scorpio, Pisces feel at home in the water element. This zodiac sign is characterized by a world of emotions. Pisces are considered particularly sensitive and empathetic. They listen to their feelings and intuition a lot and often act purely on instinct. Harmony is extremely important to them, so they prefer to adapt to the situation rather than impose their opinion. This adaptability makes it easy for them to get along with colleagues and superiors. Even argumentative colleagues find it challenging to argue with Pisces.",
+           "head":"Pisces have a lot of imagination",
+           "headData":["Pisces are usually not born managers and the classic type who climbs the career ladder. Before Pisces dare to engage in open conflict, they prefer to withdraw. They are by no means born fighters. However, they have a lot of visions and often artistic ambitions. But that doesn't mean they are just dreamers who can't work. On the contrary, regardless of the industry they work in, they will do everything to fulfill the tasks assigned to them in the best possible way. In doing so, they fully identify with the company they belong to.","Organizing and sober work, where facts and figures are important, are not necessarily among the strengths of those born under Pisces. They are more in the realm of sensation and empathy. Where understanding for people and animals is concerned, Pisces are in their element. Professions like nursing, therefore, suit Pisces types as much as the unconventional world of fantasy and art."],
+           "occupations":"Nurse, baker, bartender, sculptor, biologist, decorator, development worker, fisherman, florist, photographer, gallery owner, educator, chef, artist, painter, fashion designer, musician, physicist, psychologist, director, actor, dancer"
+        }
+    
+      }
+    ]
+  }
+  
+
+
+
+
+
+
+
+
+   

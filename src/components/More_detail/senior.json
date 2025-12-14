@@ -1,0 +1,90 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+        "logo":"♈",
+        "horoscope": {
+          "summary": "For the old Aries, the saying you're as young as you feel hits the mark. Grandpa and grandma Aries don't dream of giving up all the great opportunities that life still offers them. They want to stay physically and mentally fit, flexible, and do something. Older Aries are guaranteed not to miss a dance event, participate in gymnastics classes, and still happily move around the house even in old age. They keep their memory sharp with crossword puzzles, and if they can no longer walk, they just need a walker. Even handicapped older Aries don't let their joy be spoiled by being active within their capabilities."
+        }
+      },
+      {
+        "sign": "Taurus",
+        "logo":"♉",
+        "horoscope": {
+          "summary": "Old Taurus likes to be comfortable. They stand by their age, wrinkles, and little desire to pretend to be younger than they are. They can confidently do without Botox and anti-wrinkle cream. They even choose dentures in a slightly yellower version according to their age. Bright white teeth in their age? That would be funny to Taurus. In retirement, they enjoy life to the fullest with their family, and even in advanced years, they still appreciate a good meal and coffee chat with friends. Taurus is a creature of habit and reluctantly leaves its familiar environment. The saying Old wood doesn't need transplanting was written specifically for old Taurus!"
+        }
+      },
+      {
+        "sign": "Gemini",
+        "logo":"♊",
+        "horoscope": {
+          "summary": "The old Gemini wants to stay active for as long as possible. Sitting is not for them. They move with the times and need exchange and communication with other people like air to breathe. They don't have to talk only to people of their generation. They especially love conversations and exchanges with the young. Using modern means of communication, such as a mobile phone or laptop, is just something for the older Gemini. They know their stuff, are always up to date, and you can't fool them. Dance and travel are part of Gemini, even in old age, as long as their health allows it. Healthy as a fiddle. This saying still applies to most Geminis in old age."
+        }
+      },
+      {
+        "sign": "Cancer",
+        "logo":"♋",
+        "horoscope": {
+          "summary": "For older people in the sign of Cancer, security is particularly important in old age. They want to feel comfortable, and they attach great importance to comfort. They feel most comfortable with their family. The old Cancer loves company but hasn't danced at every wedding for a long time. They prefer coffee gatherings in a quiet atmosphere and can indulge in memories for hours. People with cancer tend to cling to the past, and it is often challenging for them to adapt to new circumstances. They would prefer everything to stay as it is! Or even better: as it was!"
+        }
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+        "horoscope": {
+          "summary": "Even in old age, Leo is still proud. They have retained their natural dignity, making them untouchable to age discrimination. The older Leo still likes to set the tone. In the family, Grandpa Leo is often a typical patriarch, and Grandma Leo still wants to be in charge. Leo seniors rarely retire when they reach retirement age. So, you can find many old lions on executive floors who still stand their ground. Don't even try to put them in a nursing home. Because rules can never be given to lions, even if they are as old as Methuselah. Older Leos still love to surround themselves with a touch of luxury."
+        }
+      },
+      {
+        "sign": "Virgo",
+        "logo":"♍",
+        "horoscope": {
+          "summary": "Virgo can be quite selective. They don't like chaos, and a well-kept home is one of their basic needs. When the older Virgo, in their years, can no longer maintain their surroundings as tidy as they would like, they will hire a cleaner. But dress warmly because older Virgos will sniff out every unclean speck of dust! In general, old maids are still extremely well-groomed. Even if they are modest and frugal in their way and manage with little, they still attach great importance to personal hygiene and clean clothes. A tendency toward criticism accompanies Virgo throughout their life, which occasionally manifests as gloominess and complaining in old age."
+        }
+      },
+      {
+        "sign": "Libra",
+        "logo":"♎",
+        "horoscope": {
+          "summary": "If you meet a particularly pleasant and charming older person, then you surely have a deal with an older Libra. Libra individuals are balanced and friendly even in old age, always having a smile on their face. Even sick Libras rarely whine. They don't complain; they accept their fate and remain balanced within themselves. Grandchildren who are fortunate to have a Libra grandmother or grandfather in the family will later have beautiful memories of their grandparents. They are wonderful advisers and have a heart for children. A beautiful environment and nice clothes are still important for older Libras."
+        }
+      },
+      {
+        "sign": "Scorpio",
+        "logo":"♏",
+        "horoscope":{
+          "summary": "Scorpio doesn't lose any of their will even in old age. On the contrary, this characteristic can worsen. If you want to bother them, you'll be biting granite because Scorpio rarely gives in, even in old age. Older Scorpio doesn't want help. If they still need help, they show the way themselves. If you do them wrong or behave rudely towards them, then old Scorpio won't forgive you. Older Scorpios pay a lot of attention to their health and usually stay vital for a long time, even in old age. Although Scorpio grandparents enjoy company, they are not club bosses who have to get involved everywhere. They definitely know what to do with themselves. Older Scorpios like to get involved in the lives of their children and grandchildren, even if they don't always knock on their doors."
+  
+        }
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+          "summary": "Boredom is not for older Sagittarians, and independence is almost essential even in old age. They find it challenging to give up their freedom and independence, so they usually feel uncomfortable in homes for the elderly. Sagittarians are used to taking life into their own hands and preferably don't want to do without it even in old age. Physically and mentally, Sagittarians usually stay in shape for a long time and hardly lose their desire to travel, even in later years. They are social and love to socialize with people. Due to their carefree nature and versatility, grandparents Sagittarius are especially popular among their grandchildren."
+        }
+      },
+      {
+        "sign": "Capricorn",
+        "logo":"♑",
+        "horoscope": {
+          "summary": "The life of an older Capricorn has usually not been a bed of roses. If there's something they can be proud of in old age, it's something they had to work hard for. Even in old age, Capricorn never loses their nerves; they are always composed and calm. You can rely on Grandma and Grandpa Capricorn. The grandchildren know this! Even in old age, Capricorns are usually in good health. It's especially important to them not to be a burden to anyone. Therefore, they usually take good precautions. Thanks to their frugality, even older Capricorns who have to live on a small pension never complain. They manage with what they have and are content."
+        }
+      },
+      {
+        "sign": "Aquarius",
+        "logo":"♒",
+        "horoscope": {
+          "summary": "Even in old age, Aquarius still loves diversity, remains social, and adapts. Older Aquarius will generally remain willing to travel as long as they can crawl. They also have no problem moving in old age. They even enjoy it, and they do it by their choice, not because they have to for any reason. They quickly adapt to new situations, adjust, and enjoy life as long as they breathe. Grandpa and Grandma Aquarius like to be extroverted, so don't ignore them. If Grandpa Aquarius in his nineties enjoys motorcycling or Grandma Aquarius in her late seventies goes to a party with her grandchild in bold attire, it may happen that gossip calls them crazy."
+        }
+      },
+      {
+        "sign": "Pisces",
+        "logo":"♓",
+        "horoscope": {
+          "summary": "Older Pisces enjoy living with their family and being surrounded by their loved ones. They like to be pampered and want to be taken care of day and night. If they have a little illness, they love to hear themselves whine and demand understanding and sympathy. If they get enough attention, the Pisces world will quickly be back in order. However, if you don't pay attention to their complaints, then older Pisces are deeply offended and are masters at making their relatives or any caregivers feel guilty. Grandma and Grandpa Pisces are patient listeners and good advisers to their grandchildren. Even in old age, they have a lot of imagination and are therefore particularly good storytellers."
+        }
+      }
+    ]
+  }
+  

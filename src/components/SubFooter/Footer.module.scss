@@ -1,0 +1,16 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+.footer {
+  display: flex;
+  color: $gray;
+  background-color: $footer-color;
+  font-size: 16px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  @media screen and (max-width: $tablet-M) {
+    font-size: 12px;
+  }
+}

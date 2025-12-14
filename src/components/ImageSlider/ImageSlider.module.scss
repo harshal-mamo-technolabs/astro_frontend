@@ -1,0 +1,94 @@
+@import "../../styles/colors.module.scss";
+@import "../../styles/breakpoints.module.scss";
+
+$card-min-height1: 290px;
+$card-min-height2: 200px;
+$card-min-height3: 210px;
+$card-max-width1: 300px;
+$card-max-width2: 200px;
+$card-max-width3: 210px;
+
+.sliderWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+
+  .sliderInner {
+    flex-basis: 20%;
+    min-height: $card-min-height1;
+    max-width: $card-max-width1;
+    height: fit-content;
+
+    @media screen and (max-width: $laptop-L) {
+      flex-basis: 40%;
+      max-width: $card-max-width3;
+      min-height: $card-min-height3;
+    }
+    @media screen and (max-width: $tablet-S) {
+      flex-basis: 50%;
+      max-width: $card-max-width2;
+      min-height: $card-min-height2;
+    }
+
+    .activeSlide {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      flex-direction: column;
+      width: 100%;
+      height: $card-min-height1;
+      transition: opacity 0.5s ease-in-out;
+      @media screen and (max-width: $laptop-L) {
+        height: $card-min-height3;
+      }
+      @media screen and (max-width: $tablet-S) {
+        height: $card-min-height2;
+      }
+    }
+
+    .slide {
+      display: none;
+      position: relative;
+    }
+    .imgSlide {
+      width: 100%;
+      object-fit: cover;
+      transition: opacity 0.5s ease-in-out;
+    }
+
+    .title {
+      font-size: 30px;
+      color: $white;
+      text-align: center;
+      font-weight: 400;
+      @media screen and (max-width: $laptop-L) {
+        font-size: 24px;
+      }
+    }
+  }
+
+  .dots {
+    text-align: center;
+
+    .dot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: $white;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+
+    .activeDot {
+      background-color: $dark-gray;
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+  }
+}

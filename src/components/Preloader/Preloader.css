@@ -1,0 +1,222 @@
+@media (min-width: 373px) and (max-width:429px) {
+    .customcss {
+      position: relative;
+      top: 4rem;
+    }
+    .back{
+        top: 1rem;
+    }
+   
+    
+    .step4{
+        height: 40vh;
+    } 
+    .step2{
+        height: 60vh;
+    }
+   
+ 
+   
+}
+@media (min-width: 360px)  {
+.nextstep0{
+  bottom: 12rem;
+}
+
+}
+@media (max-width: 375px)  {
+  .nextstep0{
+    bottom: 15rem;
+  }
+  .nextstep1{
+    bottom: 13rem;
+  }
+  .nextstep3{
+    bottom: 14rem;
+  }
+  .nextstep4{
+    bottom: 13rem;
+  }
+  .nextstep5{
+    bottom: 13rem;
+  }
+  .nextstep6{
+    bottom: 20rem;
+  }
+    .step3{
+        height: 70vh;
+    }
+    .step4{
+        height: 50vh;
+    }
+    .step5{
+        height: 48vh;
+    }
+    .step2{
+        height: 60vh;
+    }
+    .step6{
+        height: 50vh;
+    }
+  
+}
+@media (min-width: 390px)  {
+  .nextstep0{
+    bottom: 15rem;
+  }
+    .nextstep5{
+        bottom: 14rem;
+      }
+      .nextstep1{
+        bottom: 15rem;
+      }
+      .nextstep3{
+        bottom: 15rem;
+      }
+      .nextstep4{
+        bottom: 15rem;
+      }
+      .nextstep6{
+        bottom: 20rem;
+      }
+    .step3{
+        height: 53vh;
+    }
+    .step4{
+        height: 44vh;
+    }
+    .step5{
+        height: 44vh;
+    }
+    .step2{
+        height: 50vh;
+    }
+    .step6{
+        height: 44vh;
+    }
+  
+}
+
+
+
+@media (min-width: 414px)  {
+  .nextstep0{
+    bottom: 14rem;
+  }
+    .nextstep1{
+        bottom: 15rem;
+      }
+      .nextstep3{
+        bottom: 14rem;
+      }
+      .nextstep4{
+        bottom: 14rem;
+      }
+      .nextstep6{
+        bottom: 19rem;
+      }
+    .back{
+        top: 11rem;
+    }
+    .step2{
+        height: 50vh;
+    }
+    .step3{
+        height: 46vh;
+    }
+    .step5{
+        height: 40vh;
+    }
+    .step6{
+        height: 44vh;
+    }
+    .nextbtn{
+        bottom: 19rem;
+      }
+   
+   
+}
+
+@media (min-width: 430px) and (max-width:450px) {
+    .step2{
+        height: 45vh;
+    }
+    .nextstep3{
+        bottom: 16rem;
+      }
+    .back{
+        top: 12rem;
+    }
+    .customcss {
+        position: relative;
+        top: 4rem;
+      }
+      .step3{
+        height: 43vh;
+    }
+    .step4{
+        height: 38vh;
+    }
+    .step6{
+        height: 38vh;
+    }
+}
+
+
+
+@media (min-width: 760px) and (max-width:1000px) {
+  .nextstep0{
+    bottom: 16rem;
+  }
+   .button{
+    bottom: 9rem;
+   }
+   .nextstep1{
+    bottom: 13rem;
+  }
+  .nextstep3{
+    bottom: 10rem;
+  }
+  .nextstep5{
+    bottom: 12rem;
+  }
+  .nextstep6{
+    bottom: 11rem;
+  }
+   .customcss {
+    position: relative;
+    top: 6rem;
+    left: -1rem;
+  }
+   .back{
+    top: 8rem;
+   }
+   .step2{
+    height: 55vh;
+}
+.step3{
+    height: 45vh;
+}
+
+ .stpe3mt{
+    margin-top: 50rem;
+ }
+ .custom{
+    margin-top: 10rem;
+ }
+ .step4{
+    height: 45vh;
+}
+.step5{
+    height: 45vh;
+}
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+{
+    "zodiacSigns": [
+      {
+        "sign": "Aries",
+        "logo":"♈",
+        "horoscope": {
+          "summary": "Aries goes straight to their goal and usually gets what they want. However, whether their bold approach to their financial situation will always be particularly beneficial remains to be seen. Since Aries loves risk and would like to have everything immediately, they do not always show the necessary prudence in financial matters. It would be good for them to be more cautious. They are prone to impulsive spontaneous purchases and hasty financial transactions. However, Aries usually manages to build up a respectable possession. They are usually spared from serious financial worries."
+        }
+      },
+      {
+        "sign": "Taurus",
+        "logo":"♉",
+        "horoscope": {
+          "summary": "Taurus has absolutely no problems with money. They don't know much about red numbers because they only deal with black ones. They are materialistic and attach great value to security. Taurus preserves their property and goods as the apple of their eye. Their bank account is usually larger, and a house with a garden is a sure thing. However, after Taurus earns money and wealth, they will never fly and will always stay grounded. They value their possessions and do not need to flaunt them."
+        }
+      },
+      {
+        "sign": "Gemini",
+        "logo":"♊",
+        "horoscope": {
+          "summary": "The finances of Gemini are often as changeable as their nature. Sometimes they have money, sometimes they don't. Since they are very quick in decisions, they will likely seize many good opportunities and profitably use or invest their money. However, their carefree handling of finances can sometimes cause their savings to decrease as quickly as they were filled. In any case, Gemini will never have trouble earning money. It is not uncommon for them to have multiple jobs simultaneously, ensuring a good income."
+        }
+      },
+      {
+        "sign": "Cancer",
+        "logo":"♋",
+        "horoscope": {
+          "summary": "Cautious Cancers like to create reserves they can fall back on in emergencies and are not particularly willing to take risks when it comes to investments. As a precautionary measure, they may hide a few nests under the mattress, faithfully adhering to the motto: You never know! However, this does not mean that Cancer does not increase their wealth. On the contrary, they prefer to take two steps forward and one step back, achieving their goal through thrift and caution, perhaps not quickly but surely!"
+        }
+      },
+      {
+        "sign": "Leo",
+        "logo":"♌",
+        "horoscope": {
+          "summary": "No one can separate Leo and money because luxury, glamour, and fame belong to this zodiac sign like salt in soup. Leo usually achieves good results throughout their life and rarely settles for humility and poverty. Why? Success is leased to themselves, and they will do everything to keep it that way. Despite everything, they remain generous and are not stingy. When it comes to pampering others and themselves with glamour, money is easy. Although Leo is not the most frugal representative of the zodiac sign, they usually manage to keep their wallet full and their bank account impressive. It is not uncommon for Leo to be lucky in games, and they have the right to it; after all, they are on the winning side!"
+        }
+      },
+      {
+        "sign": "Virgo",
+        "logo":"♍",
+        "horoscope": {
+          "summary": "Virgo is said to be diligent and precise in astrology. They exhibit these qualities when it comes to money and finances. Virgo likes to use their accounting talents to maintain account statements and household books. Exceptions are conscientiously noted because they always want to keep track of things. Virgo usually does not write red numbers because they have an extremely good eye for money and are skilled in handling assets. Waste is foreign to them, although their frugality is often interpreted as stinginess by malicious tongues. Although Virgo reluctantly spends money on unnecessary decorations, they are generous when it comes to gifts for their loved ones. They will also not be averse to donating to a good cause. Virgo's account always has a solid nest egg. They will never boast about their wealth."
+        }
+      },
+      {
+        "sign": "Libra",
+        "logo":"♎",
+        "horoscope": {
+          "summary": "With Libra, it occasionally happens that the cash register is emptier. After all, they love beautiful and pleasant things in life and often cannot resist them. But that does not mean that Libra lives above their means all the time. Most of the time, they remain true to their principles and try to maintain balance, especially in the financial area! Libra always prefers a large bank account or secure investments. They also like to invest their money in beautiful things of lasting value, such as gold and other precious metals. They have no problem borrowing money. In any case, they will repay their debts on time and reliably."
+        }
+      },
+      {
+        "sign": "Scorpio",
+        "logo":"♏",
+        "horoscope":{
+          "summary": "As much as Scorpio's mood is changeable, their financial affairs can be just as variable. Mysterious and inscrutable, they usually do not reveal their cards face up on the table, and you never know where you stand with them. Do they have money or not? In any case, Scorpio knows exactly where, how, and when they can gain financial advantages and will use them. Even if they do not have large reserves to fall back on, they will never be completely depleted. With their diligence, Scorpio usually creates a secure foundation during their life."
+  
+        }
+      },
+      {
+        "sign": "Sagittarius",
+        "logo":"♐",
+        "horoscope": {
+          "summary": "Sagittarius and fashion are two different things! Born Sagittarius usually prefers an unconventional and casual clothing style. They determine the composition themselves. There is no ambition to always adhere to prevailing fashion codes or dress in the latest trends. Nothing is forced on them, and they wear exactly what they want. Sagittarius doesn't mind if their favorite jacket is a bit worn out; they will wear it gracefully as long as it suits them. Despite everything, they still have the talent to leave a good impression in terms of outfit and attract attention!"
+        }
+      },
+      {
+        "sign": "Capricorn",
+        "logo":"♑",
+        "horoscope": {
+          "summary": "For the reliable and hardworking Capricorn, it is assumed that they must earn their own bread. They know how to handle money, rely on lasting values, and will succeed in accumulating wealth throughout their life. They take their time and are patient. Their frugality often encounters misunderstanding in their environment. However, they will always remain true to themselves and allow themselves to be led to larger expenses and investments only if it further secures a solid foundation. Capricorn will never engage in questionable investments. Financial uncertainties would give them sleepless nights."
+        }
+      },
+      {
+        "sign": "Aquarius",
+        "logo":"♒",
+        "horoscope": {
+          "summary": "Aquarius and money are usually at odds. This does not mean that Aquarius cannot earn money, but no matter how much or little they have, it always seems to slip through their fingers, according to the motto: How easy it is – how easy it is! Aquarius often needs more than they have for their unconventional way of life. If there are no reserves to fall back on, they simply borrow from friends. If they really want something, and money is not enough, they take out a loan or buy on installment. The carefreeness with which Aquarius goes through life is reflected in their handling of finances."
+        }
+      },
+      {
+        "sign": "Pisces",
+        "logo":"♓",
+        "horoscope": {
+          "summary": "Pisces tend to be more on the giving side than the receiving side, and they will share their last piece of bread if they believe it is necessary. As a water sign, they are usually emotional, not materialistic. Of course, it is essential for Pisces not to fall into financial difficulties because their need for security is particularly pronounced. They always have a ready nest egg, and if they really lack money, they rely on someone who will help them get out of a jam. Since Pisces can be easily influenced and often deceived, they are advised to be very careful with financial investments. Whether Pisces is fortunate enough to belong to the rich and beautiful during their lifetime or is as poor as a church mouse, one thing is for sure: they will never become materialistic!"
+        }
+      }
+    ]
+  }
+  
