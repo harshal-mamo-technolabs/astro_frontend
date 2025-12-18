@@ -133,6 +133,13 @@ const SignupRedirect = () => {
   return null;
 };
 
+const RootRedirect = () => {
+  useEffect(() => {
+    window.location.href = "https://astro.zodiya.net/";
+  }, []);
+  return null;
+};
+
 const App = () => {
   const { setFormData } = useProfile();
 
@@ -337,7 +344,7 @@ const App = () => {
         <Route path="/subscription/pay" element={<SubscriptionPay />} />
         <Route path="/subscription/profile/pay" element={<ProfilePay />} />
         <Route path="/signup" element={<SignupRedirect />} />
-        <Route path="/" element={<SignupRedirect />} />
+        <Route path="/" element={<RootRedirect />} />
         <Route path="/refer" element={<ReferralPage />} />
         <Route
           path="/plan-change"
